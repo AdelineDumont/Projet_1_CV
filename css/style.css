@@ -1,0 +1,42 @@
+section { display : inline-block ;
+    font-family: 'Roboto', sans-serif;
+    vertical-align: top;
+    
+    }
+
+#logo {filter: grayscale(100%);
+    border-radius: 50%;
+    border: 10px solid white ;
+    height : 100px ;
+    position: center ;}
+     
+.partie_de_gauche {background-color: #4a4a4c ;
+                     background-position: left ;
+                    color : white ;
+                    padding: 9%;
+                    font-weight: lighter;
+                    font-size: 12px;
+                    line-height: 18px ;
+                }
+
+.Partie_de_droite {background-position : right ;
+                    font-weight: bold;
+                    margin-left: 20px;
+                    font-size: 11px; 
+                   }
+
+.Logiciels {text-align : left ;}
+
+i {color : #11a9f3 ;}
+.Jobs { color : #11a9f3;
+        }
+
+h1 {font-size: 30px;
+    line-height: 1px ;}
+h2 { font-weight: bold;
+    }
+
+#watson {color : #11a9f3 ;}
+
+
+
